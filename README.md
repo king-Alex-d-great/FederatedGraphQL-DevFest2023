@@ -1,6 +1,6 @@
 # FederatedGraphQL-DevFest2023
 
-Repository For My Talk on Federated GraphQL At DevFest 2020
+Repository For My Talk on Federated GraphQL At DevFest 2023
 
 Slide URL: https://docs.google.com/presentation/d/17lWCfLwqRJvzCqIr4mWPsqaokbfn0AT-QWwRbaAtF4E/edit?usp=sharing
 
