@@ -2,7 +2,7 @@
 
 Repository For My Talk on Federated GraphQL At DevFest 2023
 
-Slide URL: https://docs.google.com/presentation/d/17lWCfLwqRJvzCqIr4mWPsqaokbfn0AT-QWwRbaAtF4E/edit?usp=sharing
+[The Slide URL](https://docs.google.com/presentation/d/17lWCfLwqRJvzCqIr4mWPsqaokbfn0AT-QWwRbaAtF4E/edit?usp=sharing)
 
 # Repos 
 - [Sample Monolithic GraphQL Implementation](https://github.com/king-Alex-d-great/graphql-crud-article)
